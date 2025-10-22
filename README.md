@@ -1,8 +1,27 @@
-# 👋 Hello everyone! I'm Anand Kumar Patel
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/intro.svg" width="90%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
+</div>
 
 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering (AI & DS)** from **NIT Delhi**.  
 💡 Passionate about **Open Source Contributions**, **Hackathons**, and **AI-driven innovations**.  
-💻 Skilled in **C, C++, Python, HTML, CSS** and familiar with **Canva, VS Code, and Git**.  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
+</div>
+
+### 🛠️ Skill & Technology
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
