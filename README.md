@@ -6,7 +6,7 @@
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="3px">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" height="4px">
 </div>
 
 ### 🚀 About Me
@@ -17,7 +17,7 @@
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="3px">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" height="4px">
 </div>
 
 ### 🌐 Connect With Me
@@ -27,7 +27,7 @@
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="3px">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" height="4px">
 </div>
 
 ### ⚡ GitHub Stats
@@ -36,7 +36,7 @@
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="3px">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" height="4px">
 </div>
 
 🌟 *"Turning ideas into code, and code into impact."*
