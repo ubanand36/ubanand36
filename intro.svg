@@ -1,0 +1,10 @@
+<svg fill="none" viewBox="0 0 700 80" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="20" y="50" font-size="28" font-family="monospace" fill="#00ffff">
+    👋 Hello everyone! I'm Anand Kumar Patel
+    <animate attributeName="stroke-dasharray" from="0,200" to="200,0" dur="5s" fill="freeze" />
+  </text>
+  <rect x="580" y="25" width="2" height="30" fill="#00ffff">
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
