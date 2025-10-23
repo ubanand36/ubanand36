@@ -27,6 +27,18 @@
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gianguyen1234&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gianguyen1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
+</div>
+
 ### 🚀 About Me
 - 🌱 Always learning and exploring new technologies  
 - 🤝 Open to collaborations in open-source projects and coding communities  
@@ -49,10 +61,8 @@
 <div align="center">
   
 ### ⚡ GitHub Stats  
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubanand36&show_icons=true&theme=neon)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=neon)  
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubanand36&show_icons=true&theme=neon)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=neon)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubanand36&theme=dark)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ubanand36&theme=neon&no-frame=true&margin-w=15)
 
 </div>
 
