@@ -47,9 +47,9 @@
 </div>
 
 ### ⚡ GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=ubanand36&theme=tokyonight)
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubanand36&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubanand36&theme=tokyonight)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
