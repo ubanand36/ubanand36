@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/intro.svg" width="90%">
+  <img src="github_photo.gif" width="400"/>
 </div>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
