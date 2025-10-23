@@ -49,10 +49,10 @@
 <div align="center">
   
 ### ⚡ GitHub Stats  
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubanand36&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubanand36&theme=tokyonight)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ubanand36&theme=tokyonight&no-frame=true&margin-w=15)
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubanand36&show_icons=true&theme=neon)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=neon)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubanand36&theme=neon)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ubanand36&theme=neon&no-frame=true&margin-w=15)
 
 </div>
 
