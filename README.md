@@ -46,10 +46,16 @@
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
 </div>
 
-### ⚡ GitHub Stats
+<div align="center">
+  
+### ⚡ GitHub Stats  
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubanand36&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubanand36&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubanand36&theme=tokyonight)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ubanand36&theme=tokyonight&no-frame=true&margin-w=15)
+
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/rainbow-flow.svg" width="100%" height="5px">
