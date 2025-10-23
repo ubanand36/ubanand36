@@ -47,7 +47,7 @@
 </div>
 
 ### ⚡ GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubanand36&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=ubanand36&theme=tokyonight)
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubanand36&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubanand36&layout=compact&theme=tokyonight)
 
