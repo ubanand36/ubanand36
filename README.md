@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ubanand36/ubanand36/main/intro.svg" width="90%">
-  <img src="github_photo.gif" width="400"/>
+  <img src="github_image.gif" width="400"/>
 </div>
 
 <div align="center">
